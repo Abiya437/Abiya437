@@ -1,7 +1,7 @@
-- 👋 Hi there,
-
-- I am  ABIYA BCA
-      Backend Developer
+- 👋 hi there
+- I am Abiya BCA
+- Wordpress Developer
+- Java Developer
       
    
 
