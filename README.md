@@ -1,5 +1,5 @@
 - 👋 hi there
-- I am Abiya BCA
+- I am Abiya Mobile App Developer
 
       
    
